@@ -7,7 +7,7 @@ SELECT
 FROM 
 	product_category_name_translation
 WHERE
-	product_category_name_english IN ('electronics', 'computers_accessories', 'computers', 'tablets_printing_image', 'telephony')
+	product_category_name_english IN ('electronics', 'computers_accessories', 'computers', 'telephony')
 ;
 
 /* How many products of these tech categories have been sold 
