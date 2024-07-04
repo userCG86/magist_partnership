@@ -9,9 +9,9 @@ Delivery on this project consisted of a five-minute presentation to the (fiction
 The Tableau workbook used in this project is available to view on my [Tableau Public profile](https://public.tableau.com/app/profile/christopher.galloway5578/viz/New_Magist/).
 
 ## Languages and Libraries Used
-MySQL
-Tableau Public
-Google Slides
+MySQL     
+Tableau Public      
+Google Slides      
 
 ## Key Learnings
 This project offered the chance to freely explore a database to answer an open-ended question. While some questions were proposed by the program to get us asking questions, the great challenge lay in coming up with additional questions to pose, as well as learning how to write SQL queries to answer them. 
@@ -21,4 +21,4 @@ The value of teamwork showed itself greatly, as performing the work as a new-com
 ## Challenges Overcame
 [Share any challenges encountered during the project and how you overcame them.]
 ## Additional Reflections
-I would like to thank my teammates Cintia and Lisardo for their efforts in meeting this challenge and moving forward in our discovery of data analysis methods and practices.
+I would like to thank my teammates [Cintia](https://github.com/Cintia0528) and [Lisardo](https://github.com/lisardo-iniesta) for their efforts in meeting this challenge and moving forward in our discovery of data analysis methods and practices.
