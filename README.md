@@ -4,7 +4,7 @@ This project was run in July 2024 as part of the WBS CODING SCHOOL Data Analysis
 
 The goal is to analyse Magist's company records (sales, customer and product information, etc.) to determine the suitability of a three-year partnership to support expansion of the "employer" Eniac into the Brazilian market.
 
-Delivery on this project consisted of a five-minute presentation to the (fictional) CEO of Eniac, whether our team supports partnership with Magist for the proposed market expansion.
+Delivery on this project consisted of a five-minute presentation to the (fictional) CEO of <span style="color:red">Eniac</span>, whether our team supports partnership with Magist for the proposed market expansion.
 
 The Tableau workbook used in this project is available to view on my [Tableau Public profile](https://public.tableau.com/app/profile/christopher.galloway5578/viz/New_Magist/).
 
